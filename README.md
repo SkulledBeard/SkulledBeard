@@ -1,3 +1,4 @@
+![VikingBeard](https://user-images.githubusercontent.com/89310586/131217544-09fd9bbb-41c3-47d0-aa69-c5d811b18669.jpg)
 - 👋 Hi, I’m @SkulledBeard
 - 👀 I’m interested in python and cybersecurity
 - 🌱 I’m currently learning application developing
